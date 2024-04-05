@@ -15,13 +15,13 @@ k.loadSprite("spritesheet", "./spritesheet.png" , {
       },
 });
 
-k.loadSprite("map" , "./map.png");
+k.loadSprite("map" , "./mapv2.png");
 
 k.setBackground(k.Color.fromHex("#311047"));
 
 k.scene("main" , async () =>{
   //logical for scene
-  const mapData = await (await fetch("./map.json")).json();
+  const mapData = await (await fetch("./mapv2.json")).json();
   const layers = mapData.layers;
 
   const map = k.add([
