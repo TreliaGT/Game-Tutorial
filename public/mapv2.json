@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"mapv2.json"
+        }
+    },
  "height":13,
  "infinite":false,
  "layers":[
@@ -329,6 +337,62 @@
                  "width":15.625,
                  "x":416.375,
                  "y":31.25
+                }, 
+                {
+                 "height":14,
+                 "id":33,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":352,
+                 "y":144
+                }, 
+                {
+                 "height":13.25,
+                 "id":34,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":12.25,
+                 "x":98.25,
+                 "y":129.5
+                },
+            
+                {
+                 "height":14.5,
+                 "id":35,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":12.5,
+                 "x":129.75,
+                 "y":48.75
+                }, 
+                {
+                 "height":27,
+                 "id":36,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":13.75,
+                 "x":96.75,
+                 "y":83.5
+                }, 
+                {
+                 "height":28.5,
+                 "id":37,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":14.25,
+                 "x":80.5,
+                 "y":49.75
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -360,7 +424,7 @@
          "y":0
         }],
  "nextlayerid":5,
- "nextobjectid":33,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
