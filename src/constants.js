@@ -13,7 +13,7 @@ export const dialogueData = {
     certicates: `Behold, my certificates, a testament to my continuous learning journey! These credentials validate my expertise and dedication to mastering various aspects of web development.`,
     couch: `Ah, my comfy spot! When I'm not coding, you can find me here unwinding and exploring the culinary world through online cooking tutorials and experimenting with new recipes. Join me on my culinary adventures!`,
     garden: `Step into my green sanctuary! Gardening is my passion outside the digital realm. I find solace in nurturing plants and watching them thrive. It's a refreshing break from the screen.`,
-    bed: `Ah, my haven of dreams! This is where inspiration strikes, and I envision new projects or solutions. I often find myself scribbling down ideas before they vanish into the depths of sleep.`,
+    Bed: `Ah, my haven of dreams! This is where inspiration strikes, and I envision new projects or solutions. I often find myself scribbling down ideas before they vanish into the depths of sleep.`,
     resume: `Here lies my digital resume, a gateway to potential collaborations and exciting opportunities. If you're seeking a passionate web developer ready to embark on new challenges, reach out to me at ggcode@protonmail.com.`,
     cooking: `Welcome to my culinary corner! Cooking is not just a hobby; it's a creative outlet where I experiment with flavors and techniques. Join me in exploring the art of cooking through recipes and culinary tips!`,
     random: `Welcome to the randomness! Here, you'll find a mix of my eclectic interests and hobbies. From gardening to coding to cooking, there's always something new and exciting to discover.`,
