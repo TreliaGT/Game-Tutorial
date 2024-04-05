@@ -256,9 +256,9 @@
                 {
                  "height":21.6666666666667,
                  "id":23,
-                 "name":"",
+                 "name":"computer",
                  "rotation":0,
-                 "type":"computer",
+                 "type":"",
                  "visible":true,
                  "width":13.3333333333333,
                  "x":273,
@@ -289,9 +289,9 @@
                 {
                  "height":13.6666666666667,
                  "id":27,
-                 "name":"",
+                 "name":"couch",
                  "rotation":0,
-                 "type":"couch",
+                 "type":"",
                  "visible":true,
                  "width":30,
                  "x":225,
@@ -307,6 +307,28 @@
                  "width":13.6666666666667,
                  "x":192.666666666667,
                  "y":144
+                }, 
+                {
+                 "height":15.75,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":14.75,
+                 "x":368.375,
+                 "y":31.375
+                }, 
+                {
+                 "height":15.75,
+                 "id":32,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":15.625,
+                 "x":416.375,
+                 "y":31.25
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -338,7 +360,7 @@
          "y":0
         }],
  "nextlayerid":5,
- "nextobjectid":30,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
